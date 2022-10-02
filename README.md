@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashwin!
-- 👀 I’m interested in ML/DL (especially NLU)
+- 👀 I’m interested in ML/DL
 
 
 <!---
